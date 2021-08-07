@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @omkars20
-- 👀 I’m interested in Machine learning and Data science engineering
-- 🌱 I’m currently learning Machine learning
 
+iitisoc_face_mask_detection_kaggle
 
 <!---
 omkars20/omkars20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
